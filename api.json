@@ -31,6 +31,380 @@
             },
             "jar": "./danmu.jar"
         },
+                {
+            "key": "暮暮动漫",
+            "name": "暮暮｜动漫",
+            "type": 3,
+            "api": "./JS/drpy2.min.js",
+            "ext": "./JS/暮暮动漫.js"
+        },
+        {
+            "key": "南瓜弹幕",
+            "name": "南瓜｜弹幕",
+            "type": 3,
+            "api": "csp_Nangua",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "danmu": true
+            },
+            "jar": "./danmu.jar"
+        },
+        {
+            "key": "酷看弹幕",
+            "name": "酷看｜弹幕",
+            "type": 3,
+            "api": "csp_Kkys",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "danmu": true
+            },
+            "jar": "./danmu.jar"
+        },
+        {
+            "key": "厂长弹幕",
+            "name": "厂长｜弹幕",
+            "type": 3,
+            "api": "csp_Czzy",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "danmu": true
+            },
+            "jar": "./danmu.jar"
+        },
+        {
+            "key": "天天弹幕",
+            "name": "天天｜弹幕",
+            "type": 3,
+            "api": "csp_TianTian",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "danmu": true
+            },
+            "jar": "./danmu.jar"
+        },
+        {
+            "key": "文才弹幕",
+            "name": "文才｜弹幕",
+            "type": 3,
+            "api": "csp_Jpys",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "danmu": true
+            },
+            "jar": "./danmu.jar"
+        },
+        {
+            "key": "立播弹幕",
+            "name": "立播｜弹幕",
+            "type": 3,
+            "api": "csp_Libvio",
+            "searchable": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": {
+                "token": "426246bf3a574f858ab0e0500ac709f2",
+                "cookie": "ctoken=Tiu7lVd7RIx6e41zOEQvWHbS;__uid=AARhqBlZmtpyI9Bns/P1MGYu;__pus=5221b04aab38350ebd18f16a9efdcf2cAATJIf3hHIkLoJ6Cq0nMCuh6wTAaYFNYINuXRJ7mZogRqO8iZkJna7fRdJBaRmOShImF1D07SeZCu6+BouxtphcW;__kp=eec1dc40-67f7-11ef-a052-c123c8c134d8;__kps=AARhqBlZmtpyI9Bns/P1MGYu;__ktd=TmbDe99nzy7Qh2QcK74iZw==",
+                "uc_cookie": "ctoken=wt7chWrUHlfGGDPuYT3S_bsl;__uid=AAT5ihJ1eAjvEwLf8hi1IBFd;__pus=c55d4db435ef55e4612dbce83f707340AAQCz5zDHEQ2EP/z9BasJk1MUjWit5LjL6REWpskzqfn9D4NePQHoZZ1LLyOD+nQu2Bpgb55nG3Hi6AEDdoSesEB;__kp=329d1380-67f8-11ef-8e2e-93d1d589997a;__kps=AAT5ihJ1eAjvEwLf8hi1IBFd;__ktd=159SLTmGgOyHR2bCyDT7ng==;UDRIVE_TRANSFER_SESS=OSjfjvdvVB3kri7vp2BXpEyoUH2wkQ3KZwVzsFmB5N-U58sP9y5jI-ozShlwejKV1GaB4YtElGrj-Awxy969751Ir0OoAwoyvaKC2qYv6z290A5fSGxjFHdrVzeIyMZeOZZVNb2wLystYglF_kBO7y7tis4O9TZbwU4onmy4q4QVDq13HWY9eMgpWiTn7DzP",
+                "danmu": true
+            },
+            "jar": "./danmu.jar"
+        },
+        {
+            "key": "三六零弹幕",
+            "name": "三六零｜弹幕",
+            "type": 3,
+            "api": "csp_Sp360",
+            "searchable": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": {
+                "danmu": true
+            },
+            "jar": "./danmu.jar"
+        },
+        {
+            "key": "机器人弹幕",
+            "name": "机器人｜弹幕",
+            "type": 3,
+            "api": "csp_Ikanbot",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "danmu": true
+            },
+            "jar": "./danmu.jar"
+        },
+        {
+            "key": "小苹果弹幕",
+            "name": "小苹果｜弹幕",
+            "type": 3,
+            "api": "csp_Xpg",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "danmu": true
+            },
+            "jar": "./danmu.jar"
+        },
+        {
+            "key": "一起看弹幕",
+            "name": "一起看｜弹幕",
+            "type": 3,
+            "api": "csp_Yqk",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "danmu": true
+            },
+            "jar": "./danmu.jar"
+        },
+        {
+            "key": "JOJO弹幕",
+            "name": "JOJO｜弹幕",
+            "type": 3,
+            "api": "csp_Jiohub",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "danmu": true
+            },
+            "jar": "./danmu.jar"
+        },
+        {
+            "key": "荐片弹幕",
+            "name": "荐片｜弹幕",
+            "type": 3,
+            "api": "csp_Jianpian",
+            "playerType": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "danmu": true
+            },
+            "jar": "./danmu.jar"
+        },
+        {
+            "key": "哔嘀弹幕",
+            "name": "哔嘀｜弹幕",
+            "type": 3,
+            "api": "csp_Bdys",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "site": "https://www.yjys02.com",
+                "danmu": true
+            },
+            "jar": "./danmu.jar"
+        },
+        {
+            "key": "不太灵弹幕",
+            "name": "不太灵｜弹幕",
+            "type": 3,
+            "api": "csp_Bt0",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": {
+                "danmu": true
+            },
+            "jar": "./danmu.jar"
+        },
+        {
+            "key": "玩偶弹幕",
+            "name": "玩偶哥哥｜4K弹幕",
+            "type": 3,
+            "api": "csp_Wogg",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "token": "426246bf3a574f858ab0e0500ac709f2",
+                "cookie": "ctoken=Tiu7lVd7RIx6e41zOEQvWHbS;__uid=AARhqBlZmtpyI9Bns/P1MGYu;__pus=5221b04aab38350ebd18f16a9efdcf2cAATJIf3hHIkLoJ6Cq0nMCuh6wTAaYFNYINuXRJ7mZogRqO8iZkJna7fRdJBaRmOShImF1D07SeZCu6+BouxtphcW;__kp=eec1dc40-67f7-11ef-a052-c123c8c134d8;__kps=AARhqBlZmtpyI9Bns/P1MGYu;__ktd=TmbDe99nzy7Qh2QcK74iZw==",
+                "uc_cookie": "ctoken=wt7chWrUHlfGGDPuYT3S_bsl;__uid=AAT5ihJ1eAjvEwLf8hi1IBFd;__pus=c55d4db435ef55e4612dbce83f707340AAQCz5zDHEQ2EP/z9BasJk1MUjWit5LjL6REWpskzqfn9D4NePQHoZZ1LLyOD+nQu2Bpgb55nG3Hi6AEDdoSesEB;__kp=329d1380-67f8-11ef-8e2e-93d1d589997a;__kps=AAT5ihJ1eAjvEwLf8hi1IBFd;__ktd=159SLTmGgOyHR2bCyDT7ng==;UDRIVE_TRANSFER_SESS=OSjfjvdvVB3kri7vp2BXpEyoUH2wkQ3KZwVzsFmB5N-U58sP9y5jI-ozShlwejKV1GaB4YtElGrj-Awxy969751Ir0OoAwoyvaKC2qYv6z290A5fSGxjFHdrVzeIyMZeOZZVNb2wLystYglF_kBO7y7tis4O9TZbwU4onmy4q4QVDq13HWY9eMgpWiTn7DzP",
+                "wogg": true,
+                "danmu": true
+            },
+            "jar": "./danmu.jar"
+        },
+        {
+            "key": "玩偶备用弹幕",
+            "name": "玩偶备用｜4K弹幕",
+            "type": 3,
+            "api": "csp_Wogg",
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "ext": {
+                "token": "426246bf3a574f858ab0e0500ac709f2",
+                "cookie": "ctoken=Tiu7lVd7RIx6e41zOEQvWHbS;__uid=AARhqBlZmtpyI9Bns/P1MGYu;__pus=5221b04aab38350ebd18f16a9efdcf2cAATJIf3hHIkLoJ6Cq0nMCuh6wTAaYFNYINuXRJ7mZogRqO8iZkJna7fRdJBaRmOShImF1D07SeZCu6+BouxtphcW;__kp=eec1dc40-67f7-11ef-a052-c123c8c134d8;__kps=AARhqBlZmtpyI9Bns/P1MGYu;__ktd=TmbDe99nzy7Qh2QcK74iZw==",
+                "uc_cookie": "ctoken=wt7chWrUHlfGGDPuYT3S_bsl;__uid=AAT5ihJ1eAjvEwLf8hi1IBFd;__pus=c55d4db435ef55e4612dbce83f707340AAQCz5zDHEQ2EP/z9BasJk1MUjWit5LjL6REWpskzqfn9D4NePQHoZZ1LLyOD+nQu2Bpgb55nG3Hi6AEDdoSesEB;__kp=329d1380-67f8-11ef-8e2e-93d1d589997a;__kps=AAT5ihJ1eAjvEwLf8hi1IBFd;__ktd=159SLTmGgOyHR2bCyDT7ng==;UDRIVE_TRANSFER_SESS=OSjfjvdvVB3kri7vp2BXpEyoUH2wkQ3KZwVzsFmB5N-U58sP9y5jI-ozShlwejKV1GaB4YtElGrj-Awxy969751Ir0OoAwoyvaKC2qYv6z290A5fSGxjFHdrVzeIyMZeOZZVNb2wLystYglF_kBO7y7tis4O9TZbwU4onmy4q4QVDq13HWY9eMgpWiTn7DzP",
+                "site": "https://wogg.xxooo.cf",
+                "danmu": true
+            },
+            "jar": "./danmu.jar"
+        },
+        {
+            "key": "夸克玩偶弹幕",
+            "name": "玩偶表哥｜4K弹幕",
+            "type": 3,
+            "api": "csp_Wobg",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": {
+                "token": "426246bf3a574f858ab0e0500ac709f2",
+                "cookie": "ctoken=Tiu7lVd7RIx6e41zOEQvWHbS;__uid=AARhqBlZmtpyI9Bns/P1MGYu;__pus=5221b04aab38350ebd18f16a9efdcf2cAATJIf3hHIkLoJ6Cq0nMCuh6wTAaYFNYINuXRJ7mZogRqO8iZkJna7fRdJBaRmOShImF1D07SeZCu6+BouxtphcW;__kp=eec1dc40-67f7-11ef-a052-c123c8c134d8;__kps=AARhqBlZmtpyI9Bns/P1MGYu;__ktd=TmbDe99nzy7Qh2QcK74iZw==",
+                "site": "http://wobgg.run-us-west2.goorm.io",
+                "danmu": true
+            },
+            "jar": "./danmu.jar"
+        },
+        {
+            "key": "夸克土豆弹幕",
+            "name": "土豆｜4K弹幕",
+            "type": 3,
+            "api": "csp_Wobg",
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "ext": {
+                "token": "426246bf3a574f858ab0e0500ac709f2",
+                "cookie": "ctoken=Tiu7lVd7RIx6e41zOEQvWHbS;__uid=AARhqBlZmtpyI9Bns/P1MGYu;__pus=5221b04aab38350ebd18f16a9efdcf2cAATJIf3hHIkLoJ6Cq0nMCuh6wTAaYFNYINuXRJ7mZogRqO8iZkJna7fRdJBaRmOShImF1D07SeZCu6+BouxtphcW;__kp=eec1dc40-67f7-11ef-a052-c123c8c134d8;__kps=AARhqBlZmtpyI9Bns/P1MGYu;__ktd=TmbDe99nzy7Qh2QcK74iZw==",
+                "site": "https://tudou.lvdoui.top",
+                "danmu": true
+            },
+            "jar": "./danmu.jar"
+        },
+        {
+            "key": "夸克多多弹幕",
+            "name": "多多｜4K弹幕",
+            "type": 3,
+            "api": "csp_Wobg",
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "ext": {
+                "token": "426246bf3a574f858ab0e0500ac709f2",
+                "cookie": "ctoken=Tiu7lVd7RIx6e41zOEQvWHbS;__uid=AARhqBlZmtpyI9Bns/P1MGYu;__pus=5221b04aab38350ebd18f16a9efdcf2cAATJIf3hHIkLoJ6Cq0nMCuh6wTAaYFNYINuXRJ7mZogRqO8iZkJna7fRdJBaRmOShImF1D07SeZCu6+BouxtphcW;__kp=eec1dc40-67f7-11ef-a052-c123c8c134d8;__kps=AARhqBlZmtpyI9Bns/P1MGYu;__ktd=TmbDe99nzy7Qh2QcK74iZw==",
+                "site": "https://tv.yydsys.top",
+                "danmu": true
+            },
+            "jar": "./danmu.jar"
+        },
+        {
+            "key": "夸克蜡笔弹幕",
+            "name": "蜡笔｜4K弹幕",
+            "type": 3,
+            "api": "csp_Wobg",
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "ext": {
+                "token": "426246bf3a574f858ab0e0500ac709f2",
+                "cookie": "ctoken=Tiu7lVd7RIx6e41zOEQvWHbS;__uid=AARhqBlZmtpyI9Bns/P1MGYu;__pus=5221b04aab38350ebd18f16a9efdcf2cAATJIf3hHIkLoJ6Cq0nMCuh6wTAaYFNYINuXRJ7mZogRqO8iZkJna7fRdJBaRmOShImF1D07SeZCu6+BouxtphcW;__kp=eec1dc40-67f7-11ef-a052-c123c8c134d8;__kps=AARhqBlZmtpyI9Bns/P1MGYu;__ktd=TmbDe99nzy7Qh2QcK74iZw==",
+                "site": "https://duopan.fun",
+                "danmu": true
+            },
+            "jar": "./danmu.jar"
+        },
+        {
+            "key": "夸克至臻弹幕",
+            "name": "至臻｜4K弹幕",
+            "type": 3,
+            "api": "csp_Wobg",
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "ext": {
+                "token": "426246bf3a574f858ab0e0500ac709f2",
+                "cookie": "ctoken=Tiu7lVd7RIx6e41zOEQvWHbS;__uid=AARhqBlZmtpyI9Bns/P1MGYu;__pus=5221b04aab38350ebd18f16a9efdcf2cAATJIf3hHIkLoJ6Cq0nMCuh6wTAaYFNYINuXRJ7mZogRqO8iZkJna7fRdJBaRmOShImF1D07SeZCu6+BouxtphcW;__kp=eec1dc40-67f7-11ef-a052-c123c8c134d8;__kps=AARhqBlZmtpyI9Bns/P1MGYu;__ktd=TmbDe99nzy7Qh2QcK74iZw==",
+                "uc_cookie": "ctoken=wt7chWrUHlfGGDPuYT3S_bsl;__uid=AAT5ihJ1eAjvEwLf8hi1IBFd;__pus=c55d4db435ef55e4612dbce83f707340AAQCz5zDHEQ2EP/z9BasJk1MUjWit5LjL6REWpskzqfn9D4NePQHoZZ1LLyOD+nQu2Bpgb55nG3Hi6AEDdoSesEB;__kp=329d1380-67f8-11ef-8e2e-93d1d589997a;__kps=AAT5ihJ1eAjvEwLf8hi1IBFd;__ktd=159SLTmGgOyHR2bCyDT7ng==;UDRIVE_TRANSFER_SESS=OSjfjvdvVB3kri7vp2BXpEyoUH2wkQ3KZwVzsFmB5N-U58sP9y5jI-ozShlwejKV1GaB4YtElGrj-Awxy969751Ir0OoAwoyvaKC2qYv6z290A5fSGxjFHdrVzeIyMZeOZZVNb2wLystYglF_kBO7y7tis4O9TZbwU4onmy4q4QVDq13HWY9eMgpWiTn7DzP",
+                "site": "https://mihdr.top",
+                "danmu": true
+            },
+            "jar": "./danmu.jar"
+        },
+        {
+            "key": "夸克奥秘弹幕",
+            "name": "奥秘｜4K弹幕",
+            "type": 3,
+            "api": "csp_Wobg",
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "ext": {
+                "token": "426246bf3a574f858ab0e0500ac709f2",
+                "cookie": "ctoken=Tiu7lVd7RIx6e41zOEQvWHbS;__uid=AARhqBlZmtpyI9Bns/P1MGYu;__pus=5221b04aab38350ebd18f16a9efdcf2cAATJIf3hHIkLoJ6Cq0nMCuh6wTAaYFNYINuXRJ7mZogRqO8iZkJna7fRdJBaRmOShImF1D07SeZCu6+BouxtphcW;__kp=eec1dc40-67f7-11ef-a052-c123c8c134d8;__kps=AARhqBlZmtpyI9Bns/P1MGYu;__ktd=TmbDe99nzy7Qh2QcK74iZw==",
+                "uc_cookie": "ctoken=wt7chWrUHlfGGDPuYT3S_bsl;__uid=AAT5ihJ1eAjvEwLf8hi1IBFd;__pus=c55d4db435ef55e4612dbce83f707340AAQCz5zDHEQ2EP/z9BasJk1MUjWit5LjL6REWpskzqfn9D4NePQHoZZ1LLyOD+nQu2Bpgb55nG3Hi6AEDdoSesEB;__kp=329d1380-67f8-11ef-8e2e-93d1d589997a;__kps=AAT5ihJ1eAjvEwLf8hi1IBFd;__ktd=159SLTmGgOyHR2bCyDT7ng==;UDRIVE_TRANSFER_SESS=OSjfjvdvVB3kri7vp2BXpEyoUH2wkQ3KZwVzsFmB5N-U58sP9y5jI-ozShlwejKV1GaB4YtElGrj-Awxy969751Ir0OoAwoyvaKC2qYv6z290A5fSGxjFHdrVzeIyMZeOZZVNb2wLystYglF_kBO7y7tis4O9TZbwU4onmy4q4QVDq13HWY9eMgpWiTn7DzP",
+                "site": "https://vip.omii.top",
+                "danmu": true
+            },
+            "jar": "./danmu.jar"
+        },
+        {
+            "key": "夸克云星弹幕",
+            "name": "云星｜4K弹幕",
+            "type": 3,
+            "api": "csp_Wobg",
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "ext": {
+                "token": "426246bf3a574f858ab0e0500ac709f2",
+                "cookie": "ctoken=Tiu7lVd7RIx6e41zOEQvWHbS;__uid=AARhqBlZmtpyI9Bns/P1MGYu;__pus=5221b04aab38350ebd18f16a9efdcf2cAATJIf3hHIkLoJ6Cq0nMCuh6wTAaYFNYINuXRJ7mZogRqO8iZkJna7fRdJBaRmOShImF1D07SeZCu6+BouxtphcW;__kp=eec1dc40-67f7-11ef-a052-c123c8c134d8;__kps=AARhqBlZmtpyI9Bns/P1MGYu;__ktd=TmbDe99nzy7Qh2QcK74iZw==",
+                "uc_cookie": "ctoken=wt7chWrUHlfGGDPuYT3S_bsl;__uid=AAT5ihJ1eAjvEwLf8hi1IBFd;__pus=c55d4db435ef55e4612dbce83f707340AAQCz5zDHEQ2EP/z9BasJk1MUjWit5LjL6REWpskzqfn9D4NePQHoZZ1LLyOD+nQu2Bpgb55nG3Hi6AEDdoSesEB;__kp=329d1380-67f8-11ef-8e2e-93d1d589997a;__kps=AAT5ihJ1eAjvEwLf8hi1IBFd;__ktd=159SLTmGgOyHR2bCyDT7ng==;UDRIVE_TRANSFER_SESS=OSjfjvdvVB3kri7vp2BXpEyoUH2wkQ3KZwVzsFmB5N-U58sP9y5jI-ozShlwejKV1GaB4YtElGrj-Awxy969751Ir0OoAwoyvaKC2qYv6z290A5fSGxjFHdrVzeIyMZeOZZVNb2wLystYglF_kBO7y7tis4O9TZbwU4onmy4q4QVDq13HWY9eMgpWiTn7DzP",
+                "site": "https://4k.4u4.cn",
+                "danmu": true
+            }
+        },
+        {
+            "key": "夸克团长弹幕",
+            "name": "团长｜4K弹幕",
+            "type": 3,
+            "api": "csp_Tzfile",
+            "searchable": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": {
+                "token": "426246bf3a574f858ab0e0500ac709f2",
+                "cookie": "ctoken=Tiu7lVd7RIx6e41zOEQvWHbS;__uid=AARhqBlZmtpyI9Bns/P1MGYu;__pus=5221b04aab38350ebd18f16a9efdcf2cAATJIf3hHIkLoJ6Cq0nMCuh6wTAaYFNYINuXRJ7mZogRqO8iZkJna7fRdJBaRmOShImF1D07SeZCu6+BouxtphcW;__kp=eec1dc40-67f7-11ef-a052-c123c8c134d8;__kps=AARhqBlZmtpyI9Bns/P1MGYu;__ktd=TmbDe99nzy7Qh2QcK74iZw==",
+                "danmu": true
+            },
+            "jar": "./danmu.jar"
+        },
+        {
+            "key": "夸克木偶弹幕",
+            "name": "木偶｜4K弹幕",
+            "type": 3,
+            "api": "csp_Wobg",
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "ext": {
+                "token": "426246bf3a574f858ab0e0500ac709f2",
+                "cookie": "ctoken=Tiu7lVd7RIx6e41zOEQvWHbS;__uid=AARhqBlZmtpyI9Bns/P1MGYu;__pus=5221b04aab38350ebd18f16a9efdcf2cAATJIf3hHIkLoJ6Cq0nMCuh6wTAaYFNYINuXRJ7mZogRqO8iZkJna7fRdJBaRmOShImF1D07SeZCu6+BouxtphcW;__kp=eec1dc40-67f7-11ef-a052-c123c8c134d8;__kps=AARhqBlZmtpyI9Bns/P1MGYu;__ktd=TmbDe99nzy7Qh2QcK74iZw==",
+                "uc_cookie": "ctoken=wt7chWrUHlfGGDPuYT3S_bsl;__uid=AAT5ihJ1eAjvEwLf8hi1IBFd;__pus=c55d4db435ef55e4612dbce83f707340AAQCz5zDHEQ2EP/z9BasJk1MUjWit5LjL6REWpskzqfn9D4NePQHoZZ1LLyOD+nQu2Bpgb55nG3Hi6AEDdoSesEB;__kp=329d1380-67f8-11ef-8e2e-93d1d589997a;__kps=AAT5ihJ1eAjvEwLf8hi1IBFd;__ktd=159SLTmGgOyHR2bCyDT7ng==;UDRIVE_TRANSFER_SESS=OSjfjvdvVB3kri7vp2BXpEyoUH2wkQ3KZwVzsFmB5N-U58sP9y5jI-ozShlwejKV1GaB4YtElGrj-Awxy969751Ir0OoAwoyvaKC2qYv6z290A5fSGxjFHdrVzeIyMZeOZZVNb2wLystYglF_kBO7y7tis4O9TZbwU4onmy4q4QVDq13HWY9eMgpWiTn7DzP",
+                "site": "http://mogg.top",
+                "danmu": true
+            },
+            "jar": "./danmu.jar"
+        },
         {
             "key": "无忧短剧",
             "name": "无忧｜短剧",
@@ -956,380 +1330,6 @@
             "type": 3,
             "api": "./JS/drpy2.min.js",
             "ext": "./JS/维奇动漫.js"
-        },
-        {
-            "key": "暮暮动漫",
-            "name": "暮暮｜动漫",
-            "type": 3,
-            "api": "./JS/drpy2.min.js",
-            "ext": "./JS/暮暮动漫.js"
-        },
-        {
-            "key": "南瓜弹幕",
-            "name": "南瓜｜弹幕",
-            "type": 3,
-            "api": "csp_Nangua",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "danmu": true
-            },
-            "jar": "./danmu.jar"
-        },
-        {
-            "key": "酷看弹幕",
-            "name": "酷看｜弹幕",
-            "type": 3,
-            "api": "csp_Kkys",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "danmu": true
-            },
-            "jar": "./danmu.jar"
-        },
-        {
-            "key": "厂长弹幕",
-            "name": "厂长｜弹幕",
-            "type": 3,
-            "api": "csp_Czzy",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "danmu": true
-            },
-            "jar": "./danmu.jar"
-        },
-        {
-            "key": "天天弹幕",
-            "name": "天天｜弹幕",
-            "type": 3,
-            "api": "csp_TianTian",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "danmu": true
-            },
-            "jar": "./danmu.jar"
-        },
-        {
-            "key": "文才弹幕",
-            "name": "文才｜弹幕",
-            "type": 3,
-            "api": "csp_Jpys",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "danmu": true
-            },
-            "jar": "./danmu.jar"
-        },
-        {
-            "key": "立播弹幕",
-            "name": "立播｜弹幕",
-            "type": 3,
-            "api": "csp_Libvio",
-            "searchable": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": {
-                "token": "426246bf3a574f858ab0e0500ac709f2",
-                "cookie": "ctoken=Tiu7lVd7RIx6e41zOEQvWHbS;__uid=AARhqBlZmtpyI9Bns/P1MGYu;__pus=5221b04aab38350ebd18f16a9efdcf2cAATJIf3hHIkLoJ6Cq0nMCuh6wTAaYFNYINuXRJ7mZogRqO8iZkJna7fRdJBaRmOShImF1D07SeZCu6+BouxtphcW;__kp=eec1dc40-67f7-11ef-a052-c123c8c134d8;__kps=AARhqBlZmtpyI9Bns/P1MGYu;__ktd=TmbDe99nzy7Qh2QcK74iZw==",
-                "uc_cookie": "ctoken=wt7chWrUHlfGGDPuYT3S_bsl;__uid=AAT5ihJ1eAjvEwLf8hi1IBFd;__pus=c55d4db435ef55e4612dbce83f707340AAQCz5zDHEQ2EP/z9BasJk1MUjWit5LjL6REWpskzqfn9D4NePQHoZZ1LLyOD+nQu2Bpgb55nG3Hi6AEDdoSesEB;__kp=329d1380-67f8-11ef-8e2e-93d1d589997a;__kps=AAT5ihJ1eAjvEwLf8hi1IBFd;__ktd=159SLTmGgOyHR2bCyDT7ng==;UDRIVE_TRANSFER_SESS=OSjfjvdvVB3kri7vp2BXpEyoUH2wkQ3KZwVzsFmB5N-U58sP9y5jI-ozShlwejKV1GaB4YtElGrj-Awxy969751Ir0OoAwoyvaKC2qYv6z290A5fSGxjFHdrVzeIyMZeOZZVNb2wLystYglF_kBO7y7tis4O9TZbwU4onmy4q4QVDq13HWY9eMgpWiTn7DzP",
-                "danmu": true
-            },
-            "jar": "./danmu.jar"
-        },
-        {
-            "key": "三六零弹幕",
-            "name": "三六零｜弹幕",
-            "type": 3,
-            "api": "csp_Sp360",
-            "searchable": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": {
-                "danmu": true
-            },
-            "jar": "./danmu.jar"
-        },
-        {
-            "key": "机器人弹幕",
-            "name": "机器人｜弹幕",
-            "type": 3,
-            "api": "csp_Ikanbot",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "danmu": true
-            },
-            "jar": "./danmu.jar"
-        },
-        {
-            "key": "小苹果弹幕",
-            "name": "小苹果｜弹幕",
-            "type": 3,
-            "api": "csp_Xpg",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "danmu": true
-            },
-            "jar": "./danmu.jar"
-        },
-        {
-            "key": "一起看弹幕",
-            "name": "一起看｜弹幕",
-            "type": 3,
-            "api": "csp_Yqk",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "danmu": true
-            },
-            "jar": "./danmu.jar"
-        },
-        {
-            "key": "JOJO弹幕",
-            "name": "JOJO｜弹幕",
-            "type": 3,
-            "api": "csp_Jiohub",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "danmu": true
-            },
-            "jar": "./danmu.jar"
-        },
-        {
-            "key": "荐片弹幕",
-            "name": "荐片｜弹幕",
-            "type": 3,
-            "api": "csp_Jianpian",
-            "playerType": 1,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "danmu": true
-            },
-            "jar": "./danmu.jar"
-        },
-        {
-            "key": "哔嘀弹幕",
-            "name": "哔嘀｜弹幕",
-            "type": 3,
-            "api": "csp_Bdys",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "site": "https://www.yjys02.com",
-                "danmu": true
-            },
-            "jar": "./danmu.jar"
-        },
-        {
-            "key": "不太灵弹幕",
-            "name": "不太灵｜弹幕",
-            "type": 3,
-            "api": "csp_Bt0",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": {
-                "danmu": true
-            },
-            "jar": "./danmu.jar"
-        },
-        {
-            "key": "玩偶弹幕",
-            "name": "玩偶哥哥｜4K弹幕",
-            "type": 3,
-            "api": "csp_Wogg",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "token": "426246bf3a574f858ab0e0500ac709f2",
-                "cookie": "ctoken=Tiu7lVd7RIx6e41zOEQvWHbS;__uid=AARhqBlZmtpyI9Bns/P1MGYu;__pus=5221b04aab38350ebd18f16a9efdcf2cAATJIf3hHIkLoJ6Cq0nMCuh6wTAaYFNYINuXRJ7mZogRqO8iZkJna7fRdJBaRmOShImF1D07SeZCu6+BouxtphcW;__kp=eec1dc40-67f7-11ef-a052-c123c8c134d8;__kps=AARhqBlZmtpyI9Bns/P1MGYu;__ktd=TmbDe99nzy7Qh2QcK74iZw==",
-                "uc_cookie": "ctoken=wt7chWrUHlfGGDPuYT3S_bsl;__uid=AAT5ihJ1eAjvEwLf8hi1IBFd;__pus=c55d4db435ef55e4612dbce83f707340AAQCz5zDHEQ2EP/z9BasJk1MUjWit5LjL6REWpskzqfn9D4NePQHoZZ1LLyOD+nQu2Bpgb55nG3Hi6AEDdoSesEB;__kp=329d1380-67f8-11ef-8e2e-93d1d589997a;__kps=AAT5ihJ1eAjvEwLf8hi1IBFd;__ktd=159SLTmGgOyHR2bCyDT7ng==;UDRIVE_TRANSFER_SESS=OSjfjvdvVB3kri7vp2BXpEyoUH2wkQ3KZwVzsFmB5N-U58sP9y5jI-ozShlwejKV1GaB4YtElGrj-Awxy969751Ir0OoAwoyvaKC2qYv6z290A5fSGxjFHdrVzeIyMZeOZZVNb2wLystYglF_kBO7y7tis4O9TZbwU4onmy4q4QVDq13HWY9eMgpWiTn7DzP",
-                "wogg": true,
-                "danmu": true
-            },
-            "jar": "./danmu.jar"
-        },
-        {
-            "key": "玩偶备用弹幕",
-            "name": "玩偶备用｜4K弹幕",
-            "type": 3,
-            "api": "csp_Wogg",
-            "quickSearch": 1,
-            "changeable": 1,
-            "filterable": 1,
-            "ext": {
-                "token": "426246bf3a574f858ab0e0500ac709f2",
-                "cookie": "ctoken=Tiu7lVd7RIx6e41zOEQvWHbS;__uid=AARhqBlZmtpyI9Bns/P1MGYu;__pus=5221b04aab38350ebd18f16a9efdcf2cAATJIf3hHIkLoJ6Cq0nMCuh6wTAaYFNYINuXRJ7mZogRqO8iZkJna7fRdJBaRmOShImF1D07SeZCu6+BouxtphcW;__kp=eec1dc40-67f7-11ef-a052-c123c8c134d8;__kps=AARhqBlZmtpyI9Bns/P1MGYu;__ktd=TmbDe99nzy7Qh2QcK74iZw==",
-                "uc_cookie": "ctoken=wt7chWrUHlfGGDPuYT3S_bsl;__uid=AAT5ihJ1eAjvEwLf8hi1IBFd;__pus=c55d4db435ef55e4612dbce83f707340AAQCz5zDHEQ2EP/z9BasJk1MUjWit5LjL6REWpskzqfn9D4NePQHoZZ1LLyOD+nQu2Bpgb55nG3Hi6AEDdoSesEB;__kp=329d1380-67f8-11ef-8e2e-93d1d589997a;__kps=AAT5ihJ1eAjvEwLf8hi1IBFd;__ktd=159SLTmGgOyHR2bCyDT7ng==;UDRIVE_TRANSFER_SESS=OSjfjvdvVB3kri7vp2BXpEyoUH2wkQ3KZwVzsFmB5N-U58sP9y5jI-ozShlwejKV1GaB4YtElGrj-Awxy969751Ir0OoAwoyvaKC2qYv6z290A5fSGxjFHdrVzeIyMZeOZZVNb2wLystYglF_kBO7y7tis4O9TZbwU4onmy4q4QVDq13HWY9eMgpWiTn7DzP",
-                "site": "https://wogg.xxooo.cf",
-                "danmu": true
-            },
-            "jar": "./danmu.jar"
-        },
-        {
-            "key": "夸克玩偶弹幕",
-            "name": "玩偶表哥｜4K弹幕",
-            "type": 3,
-            "api": "csp_Wobg",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": {
-                "token": "426246bf3a574f858ab0e0500ac709f2",
-                "cookie": "ctoken=Tiu7lVd7RIx6e41zOEQvWHbS;__uid=AARhqBlZmtpyI9Bns/P1MGYu;__pus=5221b04aab38350ebd18f16a9efdcf2cAATJIf3hHIkLoJ6Cq0nMCuh6wTAaYFNYINuXRJ7mZogRqO8iZkJna7fRdJBaRmOShImF1D07SeZCu6+BouxtphcW;__kp=eec1dc40-67f7-11ef-a052-c123c8c134d8;__kps=AARhqBlZmtpyI9Bns/P1MGYu;__ktd=TmbDe99nzy7Qh2QcK74iZw==",
-                "site": "http://wobgg.run-us-west2.goorm.io",
-                "danmu": true
-            },
-            "jar": "./danmu.jar"
-        },
-        {
-            "key": "夸克土豆弹幕",
-            "name": "土豆｜4K弹幕",
-            "type": 3,
-            "api": "csp_Wobg",
-            "quickSearch": 1,
-            "changeable": 1,
-            "filterable": 1,
-            "ext": {
-                "token": "426246bf3a574f858ab0e0500ac709f2",
-                "cookie": "ctoken=Tiu7lVd7RIx6e41zOEQvWHbS;__uid=AARhqBlZmtpyI9Bns/P1MGYu;__pus=5221b04aab38350ebd18f16a9efdcf2cAATJIf3hHIkLoJ6Cq0nMCuh6wTAaYFNYINuXRJ7mZogRqO8iZkJna7fRdJBaRmOShImF1D07SeZCu6+BouxtphcW;__kp=eec1dc40-67f7-11ef-a052-c123c8c134d8;__kps=AARhqBlZmtpyI9Bns/P1MGYu;__ktd=TmbDe99nzy7Qh2QcK74iZw==",
-                "site": "https://tudou.lvdoui.top",
-                "danmu": true
-            },
-            "jar": "./danmu.jar"
-        },
-        {
-            "key": "夸克多多弹幕",
-            "name": "多多｜4K弹幕",
-            "type": 3,
-            "api": "csp_Wobg",
-            "quickSearch": 1,
-            "changeable": 1,
-            "filterable": 1,
-            "ext": {
-                "token": "426246bf3a574f858ab0e0500ac709f2",
-                "cookie": "ctoken=Tiu7lVd7RIx6e41zOEQvWHbS;__uid=AARhqBlZmtpyI9Bns/P1MGYu;__pus=5221b04aab38350ebd18f16a9efdcf2cAATJIf3hHIkLoJ6Cq0nMCuh6wTAaYFNYINuXRJ7mZogRqO8iZkJna7fRdJBaRmOShImF1D07SeZCu6+BouxtphcW;__kp=eec1dc40-67f7-11ef-a052-c123c8c134d8;__kps=AARhqBlZmtpyI9Bns/P1MGYu;__ktd=TmbDe99nzy7Qh2QcK74iZw==",
-                "site": "https://tv.yydsys.top",
-                "danmu": true
-            },
-            "jar": "./danmu.jar"
-        },
-        {
-            "key": "夸克蜡笔弹幕",
-            "name": "蜡笔｜4K弹幕",
-            "type": 3,
-            "api": "csp_Wobg",
-            "quickSearch": 1,
-            "changeable": 1,
-            "filterable": 1,
-            "ext": {
-                "token": "426246bf3a574f858ab0e0500ac709f2",
-                "cookie": "ctoken=Tiu7lVd7RIx6e41zOEQvWHbS;__uid=AARhqBlZmtpyI9Bns/P1MGYu;__pus=5221b04aab38350ebd18f16a9efdcf2cAATJIf3hHIkLoJ6Cq0nMCuh6wTAaYFNYINuXRJ7mZogRqO8iZkJna7fRdJBaRmOShImF1D07SeZCu6+BouxtphcW;__kp=eec1dc40-67f7-11ef-a052-c123c8c134d8;__kps=AARhqBlZmtpyI9Bns/P1MGYu;__ktd=TmbDe99nzy7Qh2QcK74iZw==",
-                "site": "https://duopan.fun",
-                "danmu": true
-            },
-            "jar": "./danmu.jar"
-        },
-        {
-            "key": "夸克至臻弹幕",
-            "name": "至臻｜4K弹幕",
-            "type": 3,
-            "api": "csp_Wobg",
-            "quickSearch": 1,
-            "changeable": 1,
-            "filterable": 1,
-            "ext": {
-                "token": "426246bf3a574f858ab0e0500ac709f2",
-                "cookie": "ctoken=Tiu7lVd7RIx6e41zOEQvWHbS;__uid=AARhqBlZmtpyI9Bns/P1MGYu;__pus=5221b04aab38350ebd18f16a9efdcf2cAATJIf3hHIkLoJ6Cq0nMCuh6wTAaYFNYINuXRJ7mZogRqO8iZkJna7fRdJBaRmOShImF1D07SeZCu6+BouxtphcW;__kp=eec1dc40-67f7-11ef-a052-c123c8c134d8;__kps=AARhqBlZmtpyI9Bns/P1MGYu;__ktd=TmbDe99nzy7Qh2QcK74iZw==",
-                "uc_cookie": "ctoken=wt7chWrUHlfGGDPuYT3S_bsl;__uid=AAT5ihJ1eAjvEwLf8hi1IBFd;__pus=c55d4db435ef55e4612dbce83f707340AAQCz5zDHEQ2EP/z9BasJk1MUjWit5LjL6REWpskzqfn9D4NePQHoZZ1LLyOD+nQu2Bpgb55nG3Hi6AEDdoSesEB;__kp=329d1380-67f8-11ef-8e2e-93d1d589997a;__kps=AAT5ihJ1eAjvEwLf8hi1IBFd;__ktd=159SLTmGgOyHR2bCyDT7ng==;UDRIVE_TRANSFER_SESS=OSjfjvdvVB3kri7vp2BXpEyoUH2wkQ3KZwVzsFmB5N-U58sP9y5jI-ozShlwejKV1GaB4YtElGrj-Awxy969751Ir0OoAwoyvaKC2qYv6z290A5fSGxjFHdrVzeIyMZeOZZVNb2wLystYglF_kBO7y7tis4O9TZbwU4onmy4q4QVDq13HWY9eMgpWiTn7DzP",
-                "site": "https://mihdr.top",
-                "danmu": true
-            },
-            "jar": "./danmu.jar"
-        },
-        {
-            "key": "夸克奥秘弹幕",
-            "name": "奥秘｜4K弹幕",
-            "type": 3,
-            "api": "csp_Wobg",
-            "quickSearch": 1,
-            "changeable": 1,
-            "filterable": 1,
-            "ext": {
-                "token": "426246bf3a574f858ab0e0500ac709f2",
-                "cookie": "ctoken=Tiu7lVd7RIx6e41zOEQvWHbS;__uid=AARhqBlZmtpyI9Bns/P1MGYu;__pus=5221b04aab38350ebd18f16a9efdcf2cAATJIf3hHIkLoJ6Cq0nMCuh6wTAaYFNYINuXRJ7mZogRqO8iZkJna7fRdJBaRmOShImF1D07SeZCu6+BouxtphcW;__kp=eec1dc40-67f7-11ef-a052-c123c8c134d8;__kps=AARhqBlZmtpyI9Bns/P1MGYu;__ktd=TmbDe99nzy7Qh2QcK74iZw==",
-                "uc_cookie": "ctoken=wt7chWrUHlfGGDPuYT3S_bsl;__uid=AAT5ihJ1eAjvEwLf8hi1IBFd;__pus=c55d4db435ef55e4612dbce83f707340AAQCz5zDHEQ2EP/z9BasJk1MUjWit5LjL6REWpskzqfn9D4NePQHoZZ1LLyOD+nQu2Bpgb55nG3Hi6AEDdoSesEB;__kp=329d1380-67f8-11ef-8e2e-93d1d589997a;__kps=AAT5ihJ1eAjvEwLf8hi1IBFd;__ktd=159SLTmGgOyHR2bCyDT7ng==;UDRIVE_TRANSFER_SESS=OSjfjvdvVB3kri7vp2BXpEyoUH2wkQ3KZwVzsFmB5N-U58sP9y5jI-ozShlwejKV1GaB4YtElGrj-Awxy969751Ir0OoAwoyvaKC2qYv6z290A5fSGxjFHdrVzeIyMZeOZZVNb2wLystYglF_kBO7y7tis4O9TZbwU4onmy4q4QVDq13HWY9eMgpWiTn7DzP",
-                "site": "https://vip.omii.top",
-                "danmu": true
-            },
-            "jar": "./danmu.jar"
-        },
-        {
-            "key": "夸克云星弹幕",
-            "name": "云星｜4K弹幕",
-            "type": 3,
-            "api": "csp_Wobg",
-            "quickSearch": 1,
-            "changeable": 1,
-            "filterable": 1,
-            "ext": {
-                "token": "426246bf3a574f858ab0e0500ac709f2",
-                "cookie": "ctoken=Tiu7lVd7RIx6e41zOEQvWHbS;__uid=AARhqBlZmtpyI9Bns/P1MGYu;__pus=5221b04aab38350ebd18f16a9efdcf2cAATJIf3hHIkLoJ6Cq0nMCuh6wTAaYFNYINuXRJ7mZogRqO8iZkJna7fRdJBaRmOShImF1D07SeZCu6+BouxtphcW;__kp=eec1dc40-67f7-11ef-a052-c123c8c134d8;__kps=AARhqBlZmtpyI9Bns/P1MGYu;__ktd=TmbDe99nzy7Qh2QcK74iZw==",
-                "uc_cookie": "ctoken=wt7chWrUHlfGGDPuYT3S_bsl;__uid=AAT5ihJ1eAjvEwLf8hi1IBFd;__pus=c55d4db435ef55e4612dbce83f707340AAQCz5zDHEQ2EP/z9BasJk1MUjWit5LjL6REWpskzqfn9D4NePQHoZZ1LLyOD+nQu2Bpgb55nG3Hi6AEDdoSesEB;__kp=329d1380-67f8-11ef-8e2e-93d1d589997a;__kps=AAT5ihJ1eAjvEwLf8hi1IBFd;__ktd=159SLTmGgOyHR2bCyDT7ng==;UDRIVE_TRANSFER_SESS=OSjfjvdvVB3kri7vp2BXpEyoUH2wkQ3KZwVzsFmB5N-U58sP9y5jI-ozShlwejKV1GaB4YtElGrj-Awxy969751Ir0OoAwoyvaKC2qYv6z290A5fSGxjFHdrVzeIyMZeOZZVNb2wLystYglF_kBO7y7tis4O9TZbwU4onmy4q4QVDq13HWY9eMgpWiTn7DzP",
-                "site": "https://4k.4u4.cn",
-                "danmu": true
-            }
-        },
-        {
-            "key": "夸克团长弹幕",
-            "name": "团长｜4K弹幕",
-            "type": 3,
-            "api": "csp_Tzfile",
-            "searchable": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": {
-                "token": "426246bf3a574f858ab0e0500ac709f2",
-                "cookie": "ctoken=Tiu7lVd7RIx6e41zOEQvWHbS;__uid=AARhqBlZmtpyI9Bns/P1MGYu;__pus=5221b04aab38350ebd18f16a9efdcf2cAATJIf3hHIkLoJ6Cq0nMCuh6wTAaYFNYINuXRJ7mZogRqO8iZkJna7fRdJBaRmOShImF1D07SeZCu6+BouxtphcW;__kp=eec1dc40-67f7-11ef-a052-c123c8c134d8;__kps=AARhqBlZmtpyI9Bns/P1MGYu;__ktd=TmbDe99nzy7Qh2QcK74iZw==",
-                "danmu": true
-            },
-            "jar": "./danmu.jar"
-        },
-        {
-            "key": "夸克木偶弹幕",
-            "name": "木偶｜4K弹幕",
-            "type": 3,
-            "api": "csp_Wobg",
-            "quickSearch": 1,
-            "changeable": 1,
-            "filterable": 1,
-            "ext": {
-                "token": "426246bf3a574f858ab0e0500ac709f2",
-                "cookie": "ctoken=Tiu7lVd7RIx6e41zOEQvWHbS;__uid=AARhqBlZmtpyI9Bns/P1MGYu;__pus=5221b04aab38350ebd18f16a9efdcf2cAATJIf3hHIkLoJ6Cq0nMCuh6wTAaYFNYINuXRJ7mZogRqO8iZkJna7fRdJBaRmOShImF1D07SeZCu6+BouxtphcW;__kp=eec1dc40-67f7-11ef-a052-c123c8c134d8;__kps=AARhqBlZmtpyI9Bns/P1MGYu;__ktd=TmbDe99nzy7Qh2QcK74iZw==",
-                "uc_cookie": "ctoken=wt7chWrUHlfGGDPuYT3S_bsl;__uid=AAT5ihJ1eAjvEwLf8hi1IBFd;__pus=c55d4db435ef55e4612dbce83f707340AAQCz5zDHEQ2EP/z9BasJk1MUjWit5LjL6REWpskzqfn9D4NePQHoZZ1LLyOD+nQu2Bpgb55nG3Hi6AEDdoSesEB;__kp=329d1380-67f8-11ef-8e2e-93d1d589997a;__kps=AAT5ihJ1eAjvEwLf8hi1IBFd;__ktd=159SLTmGgOyHR2bCyDT7ng==;UDRIVE_TRANSFER_SESS=OSjfjvdvVB3kri7vp2BXpEyoUH2wkQ3KZwVzsFmB5N-U58sP9y5jI-ozShlwejKV1GaB4YtElGrj-Awxy969751Ir0OoAwoyvaKC2qYv6z290A5fSGxjFHdrVzeIyMZeOZZVNb2wLystYglF_kBO7y7tis4O9TZbwU4onmy4q4QVDq13HWY9eMgpWiTn7DzP",
-                "site": "http://mogg.top",
-                "danmu": true
-            },
-            "jar": "./danmu.jar"
         },
         {
             "key": "夸克影搜弹幕",

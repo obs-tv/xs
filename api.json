@@ -1,6 +1,7 @@
 {
     "spider": "./spider.jar",
     "wallpaper": "https://api.likepoems.com/img/bing",
+    "logo": "https://api.likepoems.com/img/bing",
     "sites": [
         {
             "key": "豆瓣",
